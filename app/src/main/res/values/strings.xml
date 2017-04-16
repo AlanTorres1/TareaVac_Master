@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TareaVac_Master</string>
+
+    <string-array name="operaciones">
+        <item>Operaciones</item>
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Division</item>
+        <item>Multiplicacion</item>
+    </string-array>
+
+    <string-array name="divisa">
+        <item>Elige</item>
+        <item>DOLAR</item>
+        <item>EURO</item>
+        <item>QUETZAL</item>
+        <item>YEN</item>
+        <item>LIBRA</item>
+    </string-array>
+
+</resources>
